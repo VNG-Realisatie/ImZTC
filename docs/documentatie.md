@@ -51,7 +51,7 @@ folder_files:
 	</thead>
 	<tbody>
 		{% for i in page.folder_files %}
-			{% if i.group == 10 %} 
+			{% if i.group == 21 %} 
 				<tr>
 					<td>
 					  <a href="{{ i.path | base_url }}">
