@@ -2,21 +2,21 @@
 layout: page-with-side-nav
 title: Documentatie ImZTC
 folder_files:
-  - title:  Diagram ZTC incl attribuutsoorten (jpg)
+  - title: Diagram ZTC incl attribuutsoorten (jpg)
     path: documenten/Diagram_ZTC_incl_attribuutsoorten.jpg
     group: 21
     versie: 2.1
     status: Definitief
     omschrijving: Diagram Informatiemodel ZTC versie 2.1
     datum: 01-07-2014
-  - title:  GEMMA ZTC2 - Informatiemodel v2.1 20140701 (pdf)
+  - title: GEMMA ZTC2 - Informatiemodel v2.1 20140701 (pdf)
     path: documenten/GEMMA_ZTC2_-_Informatiemodel_v2.1_20140701.pdf
     group: 21
     versie: 2.1
     status: Definitief
     omschrijving: Informatiemodel ZTC versie 2.1
     datum: 01-07-2014
-  - title:  GEMMA ZTC2 - Informatiemodel v2.1 20140701 met gemarkeerde wijzigingen (pdf)
+  - title: GEMMA ZTC2 - Informatiemodel v2.1 20140701 met gemarkeerde wijzigingen (pdf)
     path: documenten/GEMMA_ZTC2_-_Informatiemodel_v2.1_20140701_met_gemarkeerde_wijzigingen.pdf
     group: 21
     versie: 2.1
@@ -30,7 +30,7 @@ folder_files:
     status: Definitief
     omschrijving: 
     datum: 01-07-2014
-  - title:  ImZTC 02.1 in gebruik UML (EAP) (zip)
+  - title: ImZTC 02.1 in gebruik UML (EAP) (zip)
     path: documenten/ImZTC_02.1_in_gebruik.zip
     group: 21
     versie: 2.1
