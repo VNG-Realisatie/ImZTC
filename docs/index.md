@@ -37,4 +37,4 @@ Ideeen voor verbetering van deze pagina kunt u plaatsen onder 'Overleg', links b
 
 ## Berichtenarchitectuur
 Het ImZTC beschrijft de structuur en semantiek van de kenmerken van zaaktypen. Om deze kenmerken te kunnen delen tussen applicaties (uitwisselen van zaaktypen tussen 
-applicaties zoals zaaksystemen en back-office-applicaties), zijn berichten nodig. Hiertoe is het versie 2.1 van het ImZTC uitgewerkt in de [berichtenstandaard Sectormodel Zaaktypen(-catalogus) (StUF–ZTC)](https://vng-realisatie.github.io/StUF-ZTC/).
+applicaties zoals zaaksystemen en back-office-applicaties), zijn berichten nodig. Hiertoe is het versie 2.1 van het ImZTC uitgewerkt in [StUF-ZTC 3.10](https://vng-realisatie.github.io/StUF-ZTC/).
