@@ -3,7 +3,7 @@ layout: page-with-side-nav
 title: Introductie Informatiemodel Zaaktypecatalogus
 ---
 
-# Introductie
+# Introductie ImZTC
 
 Zaakgericht werken vindt plaats door de uitvoering van zaken. Een groep van gelijksoortige zaken duiden we aan met 'zaaktype'. Door een zaaktype te specificeren 
 is het bij de start van een zaak (van dat type) bekend hoe deze moet worden uitgevoerd en worden zaken van dat type op gelijke wijze uitgevoerd. Een 
