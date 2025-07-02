@@ -1,3 +1,8 @@
+| Eigenaar | Ingevuld door |
+| --- | --- |
+| Kennis centrum Architectuur | Robert Melskens |
+<hr/>
+
 # Informatiemodel ZaakTypeCatalogus (ImZTC)
 Zaak- en procesgericht werken wordt als een belangrijk thema gezien om meer grip te krijgen op processen, zowel voor dienstverlening als interne doelen, en de daarvoor 
 relevante informatievoorziening. VNG Realisatie ondersteunt gemeenten bij deze ontwikkeling door middel van de GEMeentelijke Model Architectuur (GEMMA). De GEMMA-onderdelen geven 
