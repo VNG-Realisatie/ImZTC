@@ -103,7 +103,7 @@ folder_files:
 	</tbody>
 </table>
 
-## Zaaktypecatalogus, een toelichting op het gebruik van de ImZTC
+## Zaaktypecatalogus, een concrete toepassing van de ImZTC
 
 De GEMMA Zaaktypecatalogus bestaat uit de volgende onderdelen:
 
