@@ -48,4 +48,4 @@ De GEMMA Zaaktypecatalogusdocumentatie ondersteunt de concrete toepassing van he
 * een sjabloon voor het specificeren van een zaaktype, ook te gebruiken voor ‘het goede gesprek’ over de vertaling van een proces naar een zaaktype en voor het registreren van het zaaktype in een applicatie;
 * zaaktypecatalogi met standaard- en voorbeeldzaaktypen.
 
-Zie de [documentatiepagina](https://vng-realisatie.github.io/ImZTC/documentatie) voor de genoemde documenten.
+Zie de [documentatiepagina](documentatie) voor de genoemde documenten.
