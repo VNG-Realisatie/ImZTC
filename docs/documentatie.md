@@ -41,7 +41,7 @@ folder_files:
     path: documenten/GEMMA_Referentiezaaktypecatalogus_20141231.zip
     group: 1
     versie: 
-    status: In bewerking
+    status: Definitief
     omschrijving: 
     datum: 20141231
   - title: GEMMA ZTC 2 - Begeleidend Document (pdf)
