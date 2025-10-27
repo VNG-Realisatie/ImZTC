@@ -41,11 +41,11 @@ applicaties zoals zaaksystemen en back-office-applicaties), zijn berichten nodig
 
 ## Zaaktypecatalogus
 
-De GEMMA Zaaktypecatalogus is een andere concrete toepassing van het ImZTC 2.1 en bestaat uit de volgende onderdelen:
+De GEMMA Zaaktypecatalogusdocumentatie ondersteunt de concrete toepassing van het ImZTC 2.1 en bestaat uit de volgende onderdelen:
 
-* het Begeleidend document met de visie van VNG Realisatie op de zaaktypecatalogus en de uitgangspunten, het gebruik, de opzet, het informatiemodel van de GEMMA Zaaktypecatalogus 2 (ImZTC 2.1) en een beschrijving van de wijze waarop de GEMMA ZTC2 wordt beheerd (het Beheermodel).
-* de Referentie-zaaktype-beschrijvingen (‘Bezwaar behandelen’, ‘Subsidieaanvraag behandelen’, etc.), die kunnen dienen als startpunt voor de uitwerking van eigen, daarvan afgeleide, zaaktypen,
-* een Sjabloon voor het specificeren van een zaaktype, ook te gebruiken voor ‘het goede gesprek’ over de vertaling van een proces naar een zaaktype en voor het registreren van het zaaktype in een applicatie,
+* het begeleidend document met de visie van VNG Realisatie op de zaaktypecatalogus en de uitgangspunten, het gebruik, de opzet, het informatiemodel van de GEMMA Zaaktypecatalogus 2 (ImZTC 2.1) en een beschrijving van de wijze waarop de GEMMA ZTC2 wordt beheerd (het Beheermodel);
+* de referentie-zaaktype-beschrijvingen (‘Bezwaar behandelen’, ‘Subsidieaanvraag behandelen’, etc.), die kunnen dienen als startpunt voor de uitwerking van eigen, daarvan afgeleide, zaaktypen;
+* een sjabloon voor het specificeren van een zaaktype, ook te gebruiken voor ‘het goede gesprek’ over de vertaling van een proces naar een zaaktype en voor het registreren van het zaaktype in een applicatie;
 * zaaktypecatalogi met standaard- en voorbeeldzaaktypen.
 
-Zie de [documentatie pagina](../documentatie) voor de genoemde documenten/
+Zie de [documentatiepagina](https://vng-realisatie.github.io/ImZTC/documentatie) voor de genoemde documenten.
