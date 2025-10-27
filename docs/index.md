@@ -38,3 +38,14 @@ Ideeen voor verbetering van deze pagina kunt u plaatsen onder 'Overleg', links b
 ## Berichtenarchitectuur
 Het ImZTC beschrijft de structuur en semantiek van de kenmerken van zaaktypen. Om deze kenmerken te kunnen delen tussen applicaties (uitwisselen van zaaktypen tussen 
 applicaties zoals zaaksystemen en back-office-applicaties), zijn berichten nodig. Hiertoe is het versie 2.1 van het ImZTC uitgewerkt in [StUF-ZTC 3.10](https://vng-realisatie.github.io/StUF-ZTC/).
+
+## Zaaktypecatalogus
+
+De GEMMA Zaaktypecatalogus is een andere concrete toepassing van het ImZTC 2.1 en bestaat uit de volgende onderdelen:
+
+* het Begeleidend document met de visie van VNG Realisatie op de zaaktypecatalogus en de uitgangspunten, het gebruik, de opzet, het informatiemodel van de GEMMA Zaaktypecatalogus 2 (ImZTC 2.1) en een beschrijving van de wijze waarop de GEMMA ZTC2 wordt beheerd (het Beheermodel).
+* de Referentie-zaaktype-beschrijvingen (‘Bezwaar behandelen’, ‘Subsidieaanvraag behandelen’, etc.), die kunnen dienen als startpunt voor de uitwerking van eigen, daarvan afgeleide, zaaktypen,
+* een Sjabloon voor het specificeren van een zaaktype, ook te gebruiken voor ‘het goede gesprek’ over de vertaling van een proces naar een zaaktype en voor het registreren van het zaaktype in een applicatie,
+* zaaktypecatalogi met standaard- en voorbeeldzaaktypen.
+
+Zie de [documentatie pagina](../documentatie) voor de genoemde documenten/
