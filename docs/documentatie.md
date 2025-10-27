@@ -37,8 +37,6 @@ folder_files:
     status: Definitief
     omschrijving: Informatiemodel ZTC versie 2.1 _ UML (EAP)
     datum: 01-07-2014
-	
-
   - title: GEMMA Referentiezaaktypecatalogus (zip)
     path: documenten/GEMMA_Referentiezaaktypecatalogus_20141231.zip
     group: ZaaktypeCatalogus
@@ -122,7 +120,7 @@ De GEMMA Zaaktypecatalogus bestaat uit de volgende onderdelen:
 	</thead>
 	<tbody>
 		{% for i in page.folder_files %}
-			{% if i.group == "ZaaktypeCatalogus" %} 
+			{% if i.group == ZaaktypeCatalogus %} 
 				<tr>
 					<td>
 					  <a href="{{ i.path | base_url }}">
