@@ -122,7 +122,7 @@ De GEMMA Zaaktypecatalogus bestaat uit de volgende onderdelen:
 	</thead>
 	<tbody>
 		{% for i in page.folder_files %}
-			{% if i.group == 'ZaaktypeCatalogus' %} 
+			{% if i.group == "ZaaktypeCatalogus" %} 
 				<tr>
 					<td>
 					  <a href="{{ i.path | base_url }}">
